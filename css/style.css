@@ -1,0 +1,17 @@
+h1 {
+    color:red;
+    font-size: 14;
+    text-align: center;
+    background-color: orchid
+}
+
+h2 {
+    color: green;
+    font-size: 12;
+    background-color: burlywood
+}
+
+p {
+    color: blue;
+    font-size-adjust: initial
+}
